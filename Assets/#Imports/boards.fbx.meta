@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 71ab4a7311e416d4989ad711464313e4
+timeCreated: 1489300395
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CAT_BOUND_LIMIT
+    100004: Wall01
+    100006: Wall02
+    100008: Wall03
+    100010: Wall04
+    100012: Wall05
+    100014: Wall06
+    100016: Wall07
+    100018: Wall08
+    100020: Wall09
+    100022: Wall10
+    100024: Wall11
+    100026: Wall12
+    100028: Wall13
+    100030: Wall14
+    100032: Wall15
+    100034: Wall16
+    100036: Wall17
+    100038: Wall18
+    400000: //RootNode
+    400002: CAT_BOUND_LIMIT
+    400004: Wall01
+    400006: Wall02
+    400008: Wall03
+    400010: Wall04
+    400012: Wall05
+    400014: Wall06
+    400016: Wall07
+    400018: Wall08
+    400020: Wall09
+    400022: Wall10
+    400024: Wall11
+    400026: Wall12
+    400028: Wall13
+    400030: Wall14
+    400032: Wall15
+    400034: Wall16
+    400036: Wall17
+    400038: Wall18
+    2300000: CAT_BOUND_LIMIT
+    2300002: Wall01
+    2300004: Wall02
+    2300006: Wall03
+    2300008: Wall04
+    2300010: Wall05
+    2300012: Wall06
+    2300014: Wall07
+    2300016: Wall08
+    2300018: Wall09
+    2300020: Wall10
+    2300022: Wall11
+    2300024: Wall12
+    2300026: Wall13
+    2300028: Wall14
+    2300030: Wall15
+    2300032: Wall16
+    2300034: Wall17
+    2300036: Wall18
+    3300000: CAT_BOUND_LIMIT
+    3300002: Wall01
+    3300004: Wall02
+    3300006: Wall03
+    3300008: Wall04
+    3300010: Wall05
+    3300012: Wall06
+    3300014: Wall07
+    3300016: Wall08
+    3300018: Wall09
+    3300020: Wall10
+    3300022: Wall11
+    3300024: Wall12
+    3300026: Wall13
+    3300028: Wall14
+    3300030: Wall15
+    3300032: Wall16
+    3300034: Wall17
+    3300036: Wall18
+    4300000: CAT_BOUND_LIMIT
+    4300002: Wall01
+    4300004: Wall04
+    4300006: Wall07
+    4300008: Wall10
+    4300010: Wall13
+    4300012: Wall02
+    4300014: Wall05
+    4300016: Wall08
+    4300018: Wall11
+    4300020: Wall14
+    4300022: Wall17
+    4300024: Wall03
+    4300026: Wall06
+    4300028: Wall09
+    4300030: Wall12
+    4300032: Wall15
+    4300034: Wall16
+    4300036: Wall18
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

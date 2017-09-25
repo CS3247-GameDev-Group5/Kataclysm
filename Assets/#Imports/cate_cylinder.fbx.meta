@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: b5e30e3b14a50c045b927d21d8822eec
+timeCreated: 1490496462
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CINEMA_4D_Editor
+    100004: Cube_Cube
+    100006: Subdivision_Surface
+    100008: BL
+    100010: BL_1
+    100012: BL_3
+    100014: BL_CHUBS
+    100016: BR
+    100018: BR_1
+    100020: BR_3
+    100022: BR_CHUBS
+    100024: CHUBS
+    100026: Cube
+    100028: Cube_2
+    100030: FL
+    100032: FL_1
+    100034: FL_3
+    100036: FL_CHUBS
+    100038: FR
+    100040: FR_1
+    100042: FR_3
+    100044: FR_CHUBS
+    100046: L_EAR
+    100048: L_EAR_1
+    100050: main
+    100052: R_EAR
+    100054: R_EAR_1
+    100056: SPINE
+    100058: SPINE_2
+    100060: SPINE_3
+    100062: tail
+    100064: tail_1
+    100066: tail_2
+    100068: tail_3
+    100070: tail_4
+    100072: tail_5
+    400000: //RootNode
+    400002: CINEMA_4D_Editor
+    400004: Cube_Cube
+    400006: Subdivision_Surface
+    400008: BL
+    400010: BL_1
+    400012: BL_3
+    400014: BL_CHUBS
+    400016: BR
+    400018: BR_1
+    400020: BR_3
+    400022: BR_CHUBS
+    400024: CHUBS
+    400026: Cube
+    400028: Cube_2
+    400030: FL
+    400032: FL_1
+    400034: FL_3
+    400036: FL_CHUBS
+    400038: FR
+    400040: FR_1
+    400042: FR_3
+    400044: FR_CHUBS
+    400046: L_EAR
+    400048: L_EAR_1
+    400050: main
+    400052: R_EAR
+    400054: R_EAR_1
+    400056: SPINE
+    400058: SPINE_2
+    400060: SPINE_3
+    400062: tail
+    400064: tail_1
+    400066: tail_2
+    400068: tail_3
+    400070: tail_4
+    400072: tail_5
+    2300000: Cube_Cube
+    3300000: Cube_Cube
+    4300000: Cube_Cube
+    4300002: Cube
+    4300004: Cube_2
+    7400000: cate_cylinder_idle
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cate_cylinder_idle
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube/main
+        weight: 1
+      - path: Cube/main/BL
+        weight: 1
+      - path: Cube/main/BL/BL_1
+        weight: 1
+      - path: Cube/main/BL/BL_1/BL_3
+        weight: 1
+      - path: Cube/main/BR
+        weight: 1
+      - path: Cube/main/BR/BR_1
+        weight: 1
+      - path: Cube/main/BR/BR_1/BR_3
+        weight: 1
+      - path: Cube/main/CHUBS
+        weight: 1
+      - path: Cube/main/CHUBS/BL_CHUBS
+        weight: 1
+      - path: Cube/main/CHUBS/BR_CHUBS
+        weight: 1
+      - path: Cube/main/CHUBS/FL_CHUBS
+        weight: 1
+      - path: Cube/main/CHUBS/FR_CHUBS
+        weight: 1
+      - path: Cube/main/FL
+        weight: 1
+      - path: Cube/main/FL/FL_1
+        weight: 1
+      - path: Cube/main/FL/FL_1/FL_3
+        weight: 1
+      - path: Cube/main/FR
+        weight: 1
+      - path: Cube/main/FR/FR_1
+        weight: 1
+      - path: Cube/main/FR/FR_1/FR_3
+        weight: 1
+      - path: Cube/main/SPINE
+        weight: 1
+      - path: Cube/main/SPINE/L_EAR
+        weight: 1
+      - path: Cube/main/SPINE/L_EAR/L_EAR_1
+        weight: 1
+      - path: Cube/main/SPINE/R_EAR
+        weight: 1
+      - path: Cube/main/SPINE/R_EAR/R_EAR_1
+        weight: 1
+      - path: Cube/main/SPINE/SPINE_2
+        weight: 1
+      - path: Cube/main/SPINE/SPINE_2/SPINE_3
+        weight: 1
+      - path: Cube/main/tail
+        weight: 1
+      - path: Cube/main/tail/tail_1
+        weight: 1
+      - path: Cube/main/tail/tail_1/tail_2
+        weight: 1
+      - path: Cube/main/tail/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cube/main/tail/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cube/main/tail/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cube_2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: e9b77c9c07235d3458a82953ae235562
+timeCreated: 1490496462
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BL
+    100002: BL_1
+    100004: BL_2
+    100006: BL_FATS
+    100008: BR
+    100010: BR_1
+    100012: BR_2
+    100014: BR_FATS
+    100016: //RootNode
+    100018: CINEMA_4D_Editor
+    100020: Cube
+    100022: Cube_2
+    100024: FL
+    100026: FL_1
+    100028: FL_2
+    100030: FL_FATS
+    100032: FR
+    100034: FR_1
+    100036: FR_2
+    100038: FR_FATS
+    100040: HEAD
+    100042: L_EAR
+    100044: L_EAR_1
+    100046: MAIN
+    100048: R_EAR
+    100050: R_EAR_1
+    100052: Subdivision_Surface
+    100054: TAIL
+    100056: TAIL_1
+    100058: TAIL_2
+    100060: TAIL_2_2
+    100062: TAIL_3
+    100064: TAIL_4
+    100066: TAIL_5
+    400000: BL
+    400002: BL_1
+    400004: BL_2
+    400006: BL_FATS
+    400008: BR
+    400010: BR_1
+    400012: BR_2
+    400014: BR_FATS
+    400016: //RootNode
+    400018: CINEMA_4D_Editor
+    400020: Cube
+    400022: Cube_2
+    400024: FL
+    400026: FL_1
+    400028: FL_2
+    400030: FL_FATS
+    400032: FR
+    400034: FR_1
+    400036: FR_2
+    400038: FR_FATS
+    400040: HEAD
+    400042: L_EAR
+    400044: L_EAR_1
+    400046: MAIN
+    400048: R_EAR
+    400050: R_EAR_1
+    400052: Subdivision_Surface
+    400054: TAIL
+    400056: TAIL_1
+    400058: TAIL_2
+    400060: TAIL_2_2
+    400062: TAIL_3
+    400064: TAIL_4
+    400066: TAIL_5
+    4300000: Cube
+    4300002: Cube_2
+    7400000: cate_pyramid_idle
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cate_pyramid_idle
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Subdivision_Surface
+        weight: 1
+      - path: Subdivision_Surface/Cube
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/BL
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/BL/BL_1
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/BL/BL_1/BL_2
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/BR
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/BR/BR_1
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/BR/BR_1/BR_2
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/FL
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/FL/FL_1
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/FL/FL_1/FL_2
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/FR
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/FR/FR_1
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/FR/FR_1/FR_2
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD/BL_FATS
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD/BR_FATS
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD/FL_FATS
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD/FR_FATS
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD/L_EAR
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD/L_EAR/L_EAR_1
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD/R_EAR
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/HEAD/R_EAR/R_EAR_1
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/TAIL
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/TAIL/TAIL_1
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/TAIL/TAIL_1/TAIL_2
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/TAIL/TAIL_1/TAIL_2/TAIL_2_2
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/TAIL/TAIL_1/TAIL_2/TAIL_2_2/TAIL_3
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/TAIL/TAIL_1/TAIL_2/TAIL_2_2/TAIL_3/TAIL_4
+        weight: 1
+      - path: Subdivision_Surface/Cube/MAIN/TAIL/TAIL_1/TAIL_2/TAIL_2_2/TAIL_3/TAIL_4/TAIL_5
+        weight: 1
+      - path: Subdivision_Surface/Cube_2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

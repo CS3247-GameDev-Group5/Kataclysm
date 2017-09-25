@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 8947f8b516305714e83e4b2b29f14ad9
+timeCreated: 1490496461
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BL
+    100002: body
+    100004: Boole
+    100006: BR
+    100008: //RootNode
+    100010: CINEMA_4D_Editor
+    100012: FL
+    100014: FR
+    100016: HEAD
+    100018: head_2
+    100020: head_2_2
+    100022: head_3
+    100024: hip
+    100026: Joint
+    100028: Joint_10
+    100030: Joint_11
+    100032: Joint_12
+    100034: Joint_2
+    100036: Joint_2_2
+    100038: Joint_3
+    100040: Joint_3_2
+    100042: Joint_4
+    100044: Joint_4_2
+    100046: Joint_5
+    100048: Joint_5_2
+    100050: Joint_5_3
+    100052: Joint_6
+    100054: Joint_6_2
+    100056: Joint_7
+    100058: Joint_8
+    100060: Joint_9
+    100062: L_EAR
+    100064: L_Ear
+    100066: main
+    100068: R_EAR
+    100070: R_Ear
+    100072: SPINE
+    100074: Subdivision_Surface
+    100076: TAIL
+    100078: tail
+    100080: WAIST
+    400000: BL
+    400002: body
+    400004: Boole
+    400006: BR
+    400008: //RootNode
+    400010: CINEMA_4D_Editor
+    400012: FL
+    400014: FR
+    400016: HEAD
+    400018: head_2
+    400020: head_2_2
+    400022: head_3
+    400024: hip
+    400026: Joint
+    400028: Joint_10
+    400030: Joint_11
+    400032: Joint_12
+    400034: Joint_2
+    400036: Joint_2_2
+    400038: Joint_3
+    400040: Joint_3_2
+    400042: Joint_4
+    400044: Joint_4_2
+    400046: Joint_5
+    400048: Joint_5_2
+    400050: Joint_5_3
+    400052: Joint_6
+    400054: Joint_6_2
+    400056: Joint_7
+    400058: Joint_8
+    400060: Joint_9
+    400062: L_EAR
+    400064: L_Ear
+    400066: main
+    400068: R_EAR
+    400070: R_Ear
+    400072: SPINE
+    400074: Subdivision_Surface
+    400076: TAIL
+    400078: tail
+    400080: WAIST
+    4300000: body
+    4300002: tail
+    7400000: cate_sphere_idle
+    9500000: //RootNode
+    13700000: body
+    13700002: tail
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cate_sphere_idle
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Subdivision_Surface
+        weight: 1
+      - path: Subdivision_Surface/Boole
+        weight: 1
+      - path: Subdivision_Surface/Boole/body
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD/SPINE
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD/SPINE/head_2_2
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD/SPINE/L_EAR
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD/SPINE/L_EAR/L_Ear
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD/SPINE/L_EAR/L_Ear/head_3
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD/SPINE/R_EAR
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD/SPINE/R_EAR/R_Ear
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/HEAD/SPINE/R_EAR/R_Ear/head_2
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/BL
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/BL/Joint_6_2
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/BL/Joint_6_2/Joint_10
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/BR
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/BR/Joint_8
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/BR/Joint_8/Joint_12
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/FL
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/FL/Joint_5_3
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/FL/Joint_5_3/Joint_9
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/FR
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/FR/Joint_7
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/FR/Joint_7/Joint_11
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/TAIL
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/TAIL/Joint
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/TAIL/Joint/Joint_2_2
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/TAIL/Joint/Joint_2_2/Joint_3_2
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/TAIL/Joint/Joint_2_2/Joint_3_2/Joint_4_2
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/TAIL/Joint/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/hip/TAIL/Joint/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2/Joint_6
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/WAIST
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/WAIST/Joint_2
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/WAIST/Joint_3
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/WAIST/Joint_4
+        weight: 1
+      - path: Subdivision_Surface/Boole/body/main/WAIST/Joint_5
+        weight: 1
+      - path: Subdivision_Surface/Boole/tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

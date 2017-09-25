@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 1313db06419fc7e408f84552dc86e4eb
+timeCreated: 1490496461
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back_left_hip
+    100002: back_right_hip
+    100004: CAT_CUBE_1
+    100006: //RootNode
+    100008: CINEMA_4D_Editor
+    100010: Cube
+    100012: Cube_1
+    100014: end
+    100016: front_left_ear
+    100018: front_left_hip
+    100020: front_right_ear
+    100022: front_right_hip
+    100024: Joint
+    100026: Joint_1
+    100028: Joint_1_2
+    100030: Joint_1_3
+    100032: Joint_1_4
+    100034: Joint_2
+    100036: Joint_2_2
+    100038: Joint_2_3
+    100040: Joint_2_4
+    100042: Joint_3
+    100044: Joint_3_2
+    100046: Joint_4
+    100048: Joint_5
+    100050: Joint_6
+    100052: Joint_7
+    100054: Joint_8
+    100056: left
+    100058: left_lovehandle
+    100060: Main
+    100062: Main_2
+    100064: Null
+    100066: right
+    100068: right_lovehandle
+    100070: spine
+    100072: start
+    100074: Top
+    400000: back_left_hip
+    400002: back_right_hip
+    400004: CAT_CUBE_1
+    400006: //RootNode
+    400008: CINEMA_4D_Editor
+    400010: Cube
+    400012: Cube_1
+    400014: end
+    400016: front_left_ear
+    400018: front_left_hip
+    400020: front_right_ear
+    400022: front_right_hip
+    400024: Joint
+    400026: Joint_1
+    400028: Joint_1_2
+    400030: Joint_1_3
+    400032: Joint_1_4
+    400034: Joint_2
+    400036: Joint_2_2
+    400038: Joint_2_3
+    400040: Joint_2_4
+    400042: Joint_3
+    400044: Joint_3_2
+    400046: Joint_4
+    400048: Joint_5
+    400050: Joint_6
+    400052: Joint_7
+    400054: Joint_8
+    400056: left
+    400058: left_lovehandle
+    400060: Main
+    400062: Main_2
+    400064: Null
+    400066: right
+    400068: right_lovehandle
+    400070: spine
+    400072: start
+    400074: Top
+    4300000: Cube_1
+    4300002: Cube
+    7400000: cate_cube_walk
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cate_cube_walk
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CAT_CUBE_1
+        weight: 1
+      - path: CAT_CUBE_1/Null
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/back_left_hip
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/back_left_hip/Joint_3_2
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/back_left_hip/Joint_3_2/Joint_2_4
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/back_right_hip
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/back_right_hip/Joint_2_2
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/back_right_hip/Joint_2_2/Joint_2_3
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/front_left_hip
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/front_left_hip/Joint_2
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/front_left_hip/Joint_2/Joint_1_4
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/front_right_hip
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/front_right_hip/Joint_1_2
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/front_right_hip/Joint_1_2/Joint_1_3
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/left_lovehandle
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/left_lovehandle/left
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/right_lovehandle
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/right_lovehandle/right
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/front_left_ear
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/front_left_ear/Joint
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/front_right_ear
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/front_right_ear/Joint_1
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2/start
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2/start/Joint_3
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2/start/Joint_3/Joint_4
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2/start/Joint_3/Joint_4/Joint_5
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2/start/Joint_3/Joint_4/Joint_5/Joint_6
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2/start/Joint_3/Joint_4/Joint_5/Joint_6/Joint_7
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2/start/Joint_3/Joint_4/Joint_5/Joint_6/Joint_7/Joint_8
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube/Main/Top/spine/Main_2/start/Joint_3/Joint_4/Joint_5/Joint_6/Joint_7/Joint_8/end
+        weight: 1
+      - path: CAT_CUBE_1/Null/Cube_1
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e7dafaf9300e1bc439773e0a6ed9a729,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

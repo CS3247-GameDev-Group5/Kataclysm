@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CatePyramidAnimator
+  m_Controller: {fileID: 9100000, guid: 11c37869ac04dd546ac84487137a73a3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1313db06419fc7e408f84552dc86e4eb, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 75955ec25f25e5e4d99826ffdc4cbd1a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ff6d4f952aa85414c8ae66c35362cd92, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: e9b77c9c07235d3458a82953ae235562, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 0dbddd0cb5353d5498cc8d1455eca313, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 47bd61f5170223a4ba5ab08a44424e61, type: 3}

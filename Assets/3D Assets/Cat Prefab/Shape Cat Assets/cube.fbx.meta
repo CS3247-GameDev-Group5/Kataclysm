@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: f77390f738e97ae49a867cdd0a0f221e
+timeCreated: 1489364463
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.013
+    100004: Bone.014
+    100006: Bone.015
+    100008: Bone.016
+    100010: Bone.018
+    100012: Bone.018_end
+    100014: Bone.019
+    100016: Bone.019_end
+    100018: Bone.020
+    100020: Bone.020_end
+    100022: Bone.021
+    100024: Bone.021_end
+    100026: Core
+    100028: Core.001
+    100030: Cube.001
+    100032: //RootNode
+    100034: LeftHIp
+    100036: LeftShoulder
+    100038: RightHip
+    100040: RightShoulder
+    100042: Tail01
+    100044: Tail02
+    100046: Tail03
+    100048: Tail04
+    100050: Tail05
+    100052: Tail06
+    100054: Tail07
+    100056: Tail07_end
+    100058: TailCore
+    400000: Armature
+    400002: Bone.013
+    400004: Bone.014
+    400006: Bone.015
+    400008: Bone.016
+    400010: Bone.018
+    400012: Bone.018_end
+    400014: Bone.019
+    400016: Bone.019_end
+    400018: Bone.020
+    400020: Bone.020_end
+    400022: Bone.021
+    400024: Bone.021_end
+    400026: Core
+    400028: Core.001
+    400030: Cube.001
+    400032: //RootNode
+    400034: LeftHIp
+    400036: LeftShoulder
+    400038: RightHip
+    400040: RightShoulder
+    400042: Tail01
+    400044: Tail02
+    400046: Tail03
+    400048: Tail04
+    400050: Tail05
+    400052: Tail06
+    400054: Tail07
+    400056: Tail07_end
+    400058: TailCore
+    4300000: Cube.001
+    7400000: Armature|Action
+    7400002: Armature|Bobbing
+    7400004: Armature|StillIdle
+    7400006: Armature|TailDown
+    7400008: Armature|TailUp
+    7400010: Armature|TailWaveDown
+    7400012: Armature|TailWaveUp
+    9500000: //RootNode
+    13700000: Cube.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Action
+      takeName: Armature|Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Core
+        weight: 1
+      - path: Armature/Core/Core.001
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020/Bone.020_end
+        weight: 1
+      - path: Armature/LeftHIp
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018/Bone.018_end
+        weight: 1
+      - path: Armature/RightHip
+        weight: 1
+      - path: Armature/RightHip/Bone.014
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021/Bone.021_end
+        weight: 1
+      - path: Armature/TailCore
+        weight: 1
+      - path: Armature/TailCore/Tail01
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07/Tail07_end
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Bobbing
+      takeName: Armature|Bobbing
+      firstFrame: 0
+      lastFrame: 118
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Core
+        weight: 1
+      - path: Armature/Core/Core.001
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020/Bone.020_end
+        weight: 1
+      - path: Armature/LeftHIp
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018/Bone.018_end
+        weight: 1
+      - path: Armature/RightHip
+        weight: 1
+      - path: Armature/RightHip/Bone.014
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021/Bone.021_end
+        weight: 1
+      - path: Armature/TailCore
+        weight: 1
+      - path: Armature/TailCore/Tail01
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07/Tail07_end
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|StillIdle
+      takeName: Armature|StillIdle
+      firstFrame: 0
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Core
+        weight: 1
+      - path: Armature/Core/Core.001
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020/Bone.020_end
+        weight: 1
+      - path: Armature/LeftHIp
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018/Bone.018_end
+        weight: 1
+      - path: Armature/RightHip
+        weight: 1
+      - path: Armature/RightHip/Bone.014
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021/Bone.021_end
+        weight: 1
+      - path: Armature/TailCore
+        weight: 1
+      - path: Armature/TailCore/Tail01
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07/Tail07_end
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|TailDown
+      takeName: Armature|TailDown
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Core
+        weight: 1
+      - path: Armature/Core/Core.001
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020/Bone.020_end
+        weight: 1
+      - path: Armature/LeftHIp
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018/Bone.018_end
+        weight: 1
+      - path: Armature/RightHip
+        weight: 1
+      - path: Armature/RightHip/Bone.014
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021/Bone.021_end
+        weight: 1
+      - path: Armature/TailCore
+        weight: 1
+      - path: Armature/TailCore/Tail01
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07/Tail07_end
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|TailUp
+      takeName: Armature|TailUp
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Core
+        weight: 1
+      - path: Armature/Core/Core.001
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020/Bone.020_end
+        weight: 1
+      - path: Armature/LeftHIp
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018/Bone.018_end
+        weight: 1
+      - path: Armature/RightHip
+        weight: 1
+      - path: Armature/RightHip/Bone.014
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021/Bone.021_end
+        weight: 1
+      - path: Armature/TailCore
+        weight: 1
+      - path: Armature/TailCore/Tail01
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07/Tail07_end
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|TailWaveDown
+      takeName: Armature|TailWaveDown
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Core
+        weight: 1
+      - path: Armature/Core/Core.001
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020/Bone.020_end
+        weight: 1
+      - path: Armature/LeftHIp
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018/Bone.018_end
+        weight: 1
+      - path: Armature/RightHip
+        weight: 1
+      - path: Armature/RightHip/Bone.014
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021/Bone.021_end
+        weight: 1
+      - path: Armature/TailCore
+        weight: 1
+      - path: Armature/TailCore/Tail01
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07/Tail07_end
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|TailWaveUp
+      takeName: Armature|TailWaveUp
+      firstFrame: 0
+      lastFrame: 239
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Core
+        weight: 1
+      - path: Armature/Core/Core.001
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019
+        weight: 1
+      - path: Armature/Core/Core.001/LeftShoulder/Bone.016/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020
+        weight: 1
+      - path: Armature/Core/Core.001/RightShoulder/Bone.015/Bone.020/Bone.020_end
+        weight: 1
+      - path: Armature/LeftHIp
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018
+        weight: 1
+      - path: Armature/LeftHIp/Bone.013/Bone.018/Bone.018_end
+        weight: 1
+      - path: Armature/RightHip
+        weight: 1
+      - path: Armature/RightHip/Bone.014
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021
+        weight: 1
+      - path: Armature/RightHip/Bone.014/Bone.021/Bone.021_end
+        weight: 1
+      - path: Armature/TailCore
+        weight: 1
+      - path: Armature/TailCore/Tail01
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07
+        weight: 1
+      - path: Armature/TailCore/Tail01/Tail02/Tail03/Tail04/Tail05/Tail06/Tail07/Tail07_end
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

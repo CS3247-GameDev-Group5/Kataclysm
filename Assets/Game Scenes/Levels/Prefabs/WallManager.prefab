@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1820921051839432}
+  m_IsPrefabParent: 1
+--- !u!1 &1820921051839432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4153959227486224}
+  - component: {fileID: 114129740724329804}
+  m_Layer: 0
+  m_Name: WallManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4153959227486224
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1820921051839432}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114129740724329804
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1820921051839432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 148f0a4155eb64ce89fce450f9404622, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walls:
+  - {fileID: 1454960721753994, guid: f7d298a5a9bec774c92b610f632923ed, type: 2}
+  - {fileID: 1023080324479860, guid: a67ad3acca4a1cb4fb71a2a0eb1ff026, type: 2}
+  - {fileID: 1674076297172558, guid: 2eb7ca725f0fbea4facb70973e9493e8, type: 2}
+  - {fileID: 1534438097146406, guid: abd404660e38f3447a07b7108762fc26, type: 2}
+  - {fileID: 1190455774225882, guid: 5e9a11ab49527084eae9ebf15d179219, type: 2}
+  - {fileID: 1063551015620012, guid: e3b799965a82a4b46a2be1ff6ab37f92, type: 2}
+  - {fileID: 1250903226896812, guid: 965ffed07b4f9584ab7fa4b90ea96288, type: 2}
+  - {fileID: 1828155894510188, guid: c1c218dbd6827024883d4bfe1228aaef, type: 2}
+  - {fileID: 1622155641742550, guid: 6b1e0c33dfc7ced429a2bc4f9d233178, type: 2}
+  - {fileID: 1500927218653040, guid: 1025e9ea43f9130438ad6045410700ff, type: 2}
+  - {fileID: 1453391011424082, guid: 1c0a0c95627c5054aa288a6d816fc9cc, type: 2}
+  - {fileID: 1569157894438300, guid: 75264b1a9f1b25c4ea70017d215580a5, type: 2}
+  - {fileID: 1300569990644486, guid: 30336e443e179954fbe8bc43585b28d7, type: 2}
+  - {fileID: 1358543856450296, guid: 8d0b85f7fb3ddee4cbe805f0be59ccd7, type: 2}
+  - {fileID: 1491053493674084, guid: da77362375be3f4469e1fa51b3b1464d, type: 2}
+  - {fileID: 1663320116400292, guid: de100739543e43747ad0808fa46a9e19, type: 2}
+  - {fileID: 1848023584585766, guid: 202493c41db35e040b7d90ce41f7ecb2, type: 2}
+  - {fileID: 1633027682473358, guid: 9ca09151f9450be48aa024aeeb5bf555, type: 2}
+  wallMat: {fileID: 13400000, guid: 4aa14998be2be7f4eab15a829da7098c, type: 2}
+  spawnParticleEffect: {fileID: 1444969973776604, guid: 94c6b0177b5a04c4ea55aaca20c6bed3,
+    type: 2}
+  namedWallArray:
+  - name: Wall_Stacking01
+    wall: {fileID: 1454960721753994, guid: f7d298a5a9bec774c92b610f632923ed, type: 2}
+  - name: Wall_Fundamental01
+    wall: {fileID: 1023080324479860, guid: a67ad3acca4a1cb4fb71a2a0eb1ff026, type: 2}
+  - name: Wall_Fundamental02
+    wall: {fileID: 1674076297172558, guid: 2eb7ca725f0fbea4facb70973e9493e8, type: 2}
+  - name: Wall_Stacking02
+    wall: {fileID: 1534438097146406, guid: abd404660e38f3447a07b7108762fc26, type: 2}
+  - name: Wall_Stacking03
+    wall: {fileID: 1190455774225882, guid: 5e9a11ab49527084eae9ebf15d179219, type: 2}
+  - name: Wall_Stacking05
+    wall: {fileID: 1063551015620012, guid: e3b799965a82a4b46a2be1ff6ab37f92, type: 2}
+  - name: Wall_Fundamental03
+    wall: {fileID: 1250903226896812, guid: 965ffed07b4f9584ab7fa4b90ea96288, type: 2}
+  - name: Wall_Clinging01
+    wall: {fileID: 1828155894510188, guid: c1c218dbd6827024883d4bfe1228aaef, type: 2}
+  - name: Wall_Jumping01
+    wall: {fileID: 1622155641742550, guid: 6b1e0c33dfc7ced429a2bc4f9d233178, type: 2}
+  - name: Wall_Clinging02
+    wall: {fileID: 1500927218653040, guid: 1025e9ea43f9130438ad6045410700ff, type: 2}
+  - name: Wall_StackJumping01
+    wall: {fileID: 1453391011424082, guid: 1c0a0c95627c5054aa288a6d816fc9cc, type: 2}
+  - name: Wall_Stacking04
+    wall: {fileID: 1569157894438300, guid: 75264b1a9f1b25c4ea70017d215580a5, type: 2}
+  - name: Wall_Clinging03
+    wall: {fileID: 1300569990644486, guid: 30336e443e179954fbe8bc43585b28d7, type: 2}
+  - name: Wall_Clinging04
+    wall: {fileID: 1358543856450296, guid: 8d0b85f7fb3ddee4cbe805f0be59ccd7, type: 2}
+  - name: Wall_Clinging05
+    wall: {fileID: 1491053493674084, guid: da77362375be3f4469e1fa51b3b1464d, type: 2}
+  - name: Wall_Fundamental04
+    wall: {fileID: 1663320116400292, guid: de100739543e43747ad0808fa46a9e19, type: 2}
+  - name: Wall_Clinging06
+    wall: {fileID: 1848023584585766, guid: 202493c41db35e040b7d90ce41f7ecb2, type: 2}
+  - name: Wall_Fundamental05
+    wall: {fileID: 1633027682473358, guid: 9ca09151f9450be48aa024aeeb5bf555, type: 2}

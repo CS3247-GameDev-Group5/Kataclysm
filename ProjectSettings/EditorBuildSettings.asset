@@ -6,4 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/SplashScreen/SplashScreen.unity
+    path: Assets/Game Scenes/Menu Scene/SplashScreen.unity
+    guid: 5014c2157d3054f08b9e27c5a13b2c83
+  - enabled: 1
+    path: Assets/Game Scenes/Lobby Scene/Lobby.unity
+    guid: ae25b4cb596614b918d2bf4c528c8188
+  - enabled: 1
+    path: Assets/Game Scenes/Victory Scene/WinScreen.unity
+    guid: 232599cc2bba146efabf0b1ff1e4874a
+  - enabled: 1
+    path: Assets/Game Scenes/Levels/Level 1/Level 1.unity
+    guid: 30854a7dab8c844d6a6a8730a0d0ce6e
+  - enabled: 1
+    path: Assets/Game Scenes/Levels/Level 2/Level 2.unity
+    guid: adf4cc4448bba47ec804164c50e69a23
+  - enabled: 1
+    path: Assets/Game Scenes/Levels/Level Tutorial/Tutorial.unity
+    guid: e612b66c71d214f24a61ba2c50616bf2
+  - enabled: 1
+    path: Assets/Game Scenes/Game Over Scene/GameOverScene.unity
+    guid: 74d3a00b748134961a2f90844911c23f

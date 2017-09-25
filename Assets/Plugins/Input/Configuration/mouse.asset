@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e705e99c00304f0399eff0c90ccff52, type: 3}
+  m_Name: mouse
+  m_EditorClassIdentifier: 
+  buttonMappings:
+  - target: 1
+    mouseButtonId: 0
+  - target: 2
+    mouseButtonId: 1
+  axisMappings:
+  - target: 0
+    mouseAxisId: 0
+  - target: 1
+    mouseAxisId: 1
